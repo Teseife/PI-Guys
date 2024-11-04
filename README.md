@@ -5,7 +5,7 @@ Group members:
 |-------------|---------|------------|
 | Carson      | TR      |            |
 | Ian         | TR      |            |
-| Brain       | MW      |            |
+| Alex        | MW      |            |
 | Thomas      | TR      |            |
 | Eduardo      | TR     |            |
 
