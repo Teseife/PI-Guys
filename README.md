@@ -16,11 +16,11 @@ YOLO is a state-of-the-art (SOTA) system for real-time object detection. It is i
 ## How YOLO Works
 
 1. **Image Grid Division**:
-   - The input image is divided into an \( S \times S \) grid.
+   - The input image is divided into an  `S * S` grid.
    - Each grid cell predicts:
-     - \( B \) bounding boxes.
+     - *B* bounding boxes.
      - Confidence scores for those boxes.
-     - \( C \) class probabilities.
+     - *C* class probabilities.
 
    
 ![yolo](https://github.com/user-attachments/assets/df3b3c3f-4e76-44bf-8ce9-9ebe6009443e)
