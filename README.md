@@ -22,7 +22,7 @@ YOLO is a state-of-the-art (SOTA) system for real-time object detection. It is i
      - Confidence scores for those boxes.
      - \( C \) class probabilities.
 
-   ![YOLO Model Explanation]([yolo](https://github.com/user-attachments/assets/ed24f592-1507-4132-91dc-4d6345cfa7c2)
+   ![YOLO Model Explanation]([https://github.com/user-attachments/assets/ed24f592-1507-4132-91dc-4d6345cfa7c2])
 
    *Figure: The YOLO model processes the input image by dividing it into a grid. Each grid cell predicts bounding boxes, confidence scores, and class probabilities. Post-processing techniques refine these into accurate final detections.*
 
