@@ -2,7 +2,7 @@
 
 ## Objective
 
-The objective of this project is to optimize the YOLO detection process to achieve near real-time rendering and object detection on compact, low-power devices such as a Raspberry Pi. By leveraging a Coral TPU Accelerator and a webcam, this project aims to create an efficient pipeline that maximizes the Raspberry Pi’s capabilities. The ultimate goal is to balance speed and accuracy, enabling seamless detection and tracking of objects in live video feeds while operating on resource-constrained hardware.
+The objective of this project is to deploy a YOLOv5 model on a compact and resource-constrained device like a Raspberry Pi. This project involves training a custom YOLOv5 model on a dataset tailored for specific object detection tasks, integrating the model into the YOLOv5 framework, and optimizing it for inference on the Raspberry Pi. By leveraging custom data and fine-tuning the model, the goal is to achieve efficient and accurate real-time object detection on a portable, small-scale device.
 
 ## Overview
 
