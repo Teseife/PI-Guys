@@ -1,4 +1,4 @@
-# YOLO (You Only Look Once) - Real-Time Object Detection
+=# YOLO (You Only Look Once) - Real-Time Object Detection
 
 ## Objective
 
@@ -71,12 +71,11 @@ YOLO’s ability to process the entire image at once and incorporate global cont
 
 ---
 
-## Group Members
+## This project was done in collaboration with:
 
-| Name    | Section | Position |
-|---------|---------|----------|
-| Carson  | TR      |          |
-| Ian     | TR      |          |
-| Alex    | MW      |          |
-| Thomas  | TR      |          |
-| Eduardo | TR      |          |
+| Name    |
+|---------|
+| Ian     |        
+| Alex    |       
+| Thomas  |          
+| Eduardo |            
