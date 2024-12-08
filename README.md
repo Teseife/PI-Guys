@@ -1,4 +1,4 @@
-=# YOLO (You Only Look Once) - Real-Time Object Detection
+# YOLO (You Only Look Once) - Real-Time Object Detection
 
 ## Objective
 
